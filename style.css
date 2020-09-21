@@ -1,0 +1,118 @@
+body{
+    background-color: black;
+    font-family: open sans;
+}
+
+#container{
+    width: 1000px;
+    height: 550px;
+    background-image: url(bg-img.jpg);
+    background-position: center;
+    margin: 20px auto;
+    position: relative;
+}
+
+#calc{
+    width: 325px;
+    height: 520px;
+    background-color: rgb(19, 18, 18);
+    margin-left: 150px;
+    position: relative;
+    top: 15px;
+    border-radius: 5px;
+    box-shadow: black 5px 5px 10px 0px;
+    position: absolute;
+}
+#text{
+    width: 465px;
+    position: absolute;
+    margin-left: 485px;
+    top: 150px ;
+    padding: 0px 15px;
+    color:  white;
+    font-family: 'Raleway';
+    text-align: center;
+}
+
+#text h2{
+    font-size: 45px;
+    font-weight: bold;
+    font: italic;
+}
+
+#result{
+    height: 120px;
+}
+
+#history{
+    text-align: right;
+    height: 20px;
+    margin: 0 20px;
+    padding-top: 20px;
+    font-size: 15px;    
+    color: white;
+}
+
+#output{    
+    text-align: right;
+    height: 60px;
+    margin: 10px 20px;
+    font-size: 30px; 
+    color: white;
+}
+
+#keyboard{
+    height: 400px;
+    padding: 9px 0px 0px 10px ;
+}
+
+.operator, .number, .empty{
+    width: 65px;
+    height: 65px;
+    margin: 6px;
+    float: left;
+    border-radius: 50%;
+    border-width: 0;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.number, .empty{
+    background-color: lightblue;
+}
+.empty{
+    background-color:transparent;
+}
+.operator, .number{
+    cursor: pointer;
+}
+.operator:hover, .number:hover{
+    background-color: white;
+}
+.operator:active, .number:active{
+    font-size: 12px;
+}
+.operator:focus, .number:focus, .empty:focus {
+    outline: 0;
+}
+
+button:nth-child(4){ /* Escolhe quarto elemento BUTTON. a seleção é sequencial de acordo com o HTML */
+    background-color: salmon;
+    font-size: 30px;
+}
+button:nth-child(8){ /* Escolhe quarto elemento BUTTON. a seleção é sequencial de acordo com o HTML */
+    background-color: steelblue;
+    font-size: 30px;
+}
+button:nth-child(12){ /* Escolhe quarto elemento BUTTON. a seleção é sequencial de acordo com o HTML */
+    background-color: orange;
+    font-size: 30px;
+}
+button:nth-child(16){ /* Escolhe quarto elemento BUTTON. a seleção é sequencial de acordo com o HTML */
+    background-color: limegreen;
+    font-size: 30px;
+}
+button:nth-child(20){ /* Escolhe quarto elemento BUTTON. a seleção é sequencial de acordo com o HTML */
+    background-color: purple;
+    font-size: 30px;    
+}
