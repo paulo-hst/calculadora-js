@@ -4,7 +4,7 @@
 <p align="center">Calculadora simples utilizando recursos do HTML5, CSS3 e JavaScript</p>
 
 <h1 align="center">
-  <img alt="CalculadoraJS" title="CalculadoraJS" src=".app.jpg" />
+  <img alt="CalculadoraJS" title="CalculadoraJS" src="./app.jpg" />
 </h1>
 
 Tabela de conteúdos
