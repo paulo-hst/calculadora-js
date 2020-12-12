@@ -1,7 +1,7 @@
 # Calculadora
 
 <h1 align="center">
-  <img alt="CalculadoraJS" title="CalculadoraJS" src="./app.jpg" width="300px"/>
+  <img alt="CalculadoraJS" title="CalculadoraJS" src="./app.jpg" width="500px"/>
 </h1>
  
 ## Objetivo
