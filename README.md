@@ -1,7 +1,7 @@
 # Calculadora
 
 <h1 align="center">
-  <img alt="CalculadoraJS" title="CalculadoraJS" src="./app.jpg" />
+  <img alt="CalculadoraJS" title="CalculadoraJS" src="./app.jpg" width="100px"/>
 </h1>
  
 ## Objetivo
@@ -13,4 +13,4 @@ Criação de uma calculadora básica utilizando recursos do HTML5, CSS3 e JavaSc
 - JavaScript
 
 ## Status
-[x] Concluído - 23/09/2020
+- [x] Concluído - 23/09/2020
