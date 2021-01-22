@@ -7,6 +7,9 @@
 ## Objetivo
 Criação de uma calculadora básica utilizando recursos do HTML5, CSS3 e JavaScript como exercício de fixação.
 
+## Exemplo do aplicativo
+[Clique aqui!](https://paulo-hst.github.io/calculadora-js/)
+
 ## Tecnologias
 - HTML5
 - CSS3
